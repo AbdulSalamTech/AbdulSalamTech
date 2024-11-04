@@ -1,7 +1,12 @@
-## Hi there 👋
+# Hi there, I'm AbdulSalam! 👋
 
-<!--
-**AbdulSalamTech/AbdulSalamTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 💻 Passionate about technology and eager to contribute to the tech industry.
+- 📚 Currently learning Django and diving into backend development.
+- 🌱 I'm interested in creating real-world applications.
+- 🎯 I'm passionate about data science
+
+<!-- **AbdulSalamTech/AbdulSalamTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,5 +17,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
