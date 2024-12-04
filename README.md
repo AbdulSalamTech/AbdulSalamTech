@@ -4,7 +4,7 @@
 - 💻 Passionate about technology and eager to contribute to the tech industry.
 - 📚 Currently learning Django and diving into backend development.
 - 🌱 I'm interested in creating real-world applications.
-- 🎯 I'm passionate about data science and cyber security
+- 🎯 I'm passionate about development and cyber security
 
 ## 🛠 Skills and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
