@@ -13,7 +13,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat&logo=Matplotlib&logoColor=white)
+
 
 
 
