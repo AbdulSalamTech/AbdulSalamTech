@@ -1,8 +1,8 @@
-# Hi there, I'm AbdulSalam! 👋
+# Hi there!👋
 
 ## About Me
 - 💻 Passionate about technology and eager to contribute to the tech industry.
-- 🎯 I'm passionate about development and cyber security
+- 🎯 I'm passionate about development and data science
 
 ## 🛠 Skills and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
